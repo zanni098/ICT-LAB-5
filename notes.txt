@@ -1,0 +1,2 @@
+git is distributed version
+Git keep track of changes made to files, making it easy to revert back to previous versions if needed. 
